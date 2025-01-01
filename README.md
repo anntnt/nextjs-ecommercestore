@@ -1,6 +1,6 @@
 # Next.js Ecommerce Store
 
-The Ecommerce Store Tropical Snacks is a project which I used Next.js to build a full-stack web application.
+The Ecommerce Store Tropical Snacks is a project where I used Next.js to build a simple full-stack web application. This project was later extended into a marketplace in my subsequent project. Please check my project, `nextjs_finalproject_marketplace`, for further information.
 
 ![alt text](./public/products.jpg)
 
